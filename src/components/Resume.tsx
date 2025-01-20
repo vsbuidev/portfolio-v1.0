@@ -13,12 +13,8 @@ export default function Resume({
       name: "JavaScript(ES6+)",
     },
     {
-      icon: <i className="fa fa-file-code"></i>,
-      name: "Typescript",
-    },
-    {
       icon: <i className="fab fa-react"></i>,
-      name: "React",
+      name: "React JS",
     },
     {
       icon: <i className="fab fa-node-js"></i>,
@@ -34,7 +30,7 @@ export default function Resume({
     },
     {
       icon: <i className="fab fa-php"></i>,
-      name: "PHP (Basics)",
+      name: "PHP (8x+)",
     },
     {
       icon: <i className="fab fa-python"></i>,

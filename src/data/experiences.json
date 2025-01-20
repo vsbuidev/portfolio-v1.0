@@ -1,8 +1,8 @@
 [
   {
-    "company": "Freelancer",
-    "date": "Jul 2024 - Present",
-    "role": "Cloud and Devops Engineer",
+    "company": "Sevael Technologies (Freelance)",
+    "date": "Aug 2024 - Present",
+    "role": "Cloud Support Engineer",
     "livePreview": null,
     "task": [
       "Designed, implemented, and maintained cloud-based infrastructure using AWS.",
@@ -21,7 +21,8 @@
       "Jenkins",
       "Docker",
       "Prometheus",
-      "Grafana"
+      "Grafana",
+      "Python (Scripting)"
     ]
   },
   {
@@ -39,7 +40,7 @@
   },
   {
     "company": "Agan Integration",
-    "date": "Jun 2023 - Mar 2023",
+    "date": "Jun 2022 - Mar 2023",
     "role": "Full-Stack Developer",
     "livePreview": null,
     "task": [
