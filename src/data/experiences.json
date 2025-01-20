@@ -1,6 +1,6 @@
 [
   {
-    "company": "Sevael Technologies (Freelance)",
+    "company": "Sevael Technologies",
     "date": "Aug 2024 - Present",
     "role": "Cloud Support Engineer",
     "livePreview": null,
@@ -28,7 +28,7 @@
   {
     "company": "Freelancer",
     "date": "Aug 2023 - Present",
-    "role": "Full-Stack Developer and UI Designer",
+    "role": "Full-Stack Developer",
     "livePreview": null,
     "task": [
       "Delivering captivating UI designs and responsive front-end solutions.",
@@ -36,7 +36,15 @@
       "Extensive experience in modern web technologies, ensuring seamless user experiences."
     ],
     "summary": "Created engaging UI designs and responsive front-end solutions, collaborated with clients to meet and exceed design goals and user expectations, and leveraged extensive experience in modern web technologies to ensure seamless user experiences.",
-    "technology": ["Node JS", "React JS", "TypeScript", "Tailwind CSS", "Figma"]
+    "technology": [
+      "React JS",
+      "Node JS",
+      "Gatsby",
+      "TypeScript(Basics)",
+      "Tailwind CSS",
+      "MUI",
+      "Figma"
+    ]
   },
   {
     "company": "Agan Integration",

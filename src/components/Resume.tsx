@@ -13,12 +13,20 @@ export default function Resume({
       name: "JavaScript(ES6+)",
     },
     {
+      icon: <i className="fas fa-code"></i>,
+      name: "TypeScript(Basics)",
+    },
+    {
       icon: <i className="fab fa-react"></i>,
       name: "React JS",
     },
     {
       icon: <i className="fab fa-node-js"></i>,
       name: "Node JS",
+    },
+    {
+      icon: <i className="fas fa-code"></i>,
+      name: "Gatsby",
     },
     {
       icon: <i className="fab fa-bootstrap"></i>,
@@ -29,12 +37,16 @@ export default function Resume({
       name: "Tailwind CSS",
     },
     {
+      icon: <i className="fas fa-code"></i>,
+      name: "MUI",
+    },
+    {
       icon: <i className="fab fa-php"></i>,
       name: "PHP (8x+)",
     },
     {
       icon: <i className="fab fa-python"></i>,
-      name: "Python (Basics)",
+      name: "Python (Scripting)",
     },
     {
       icon: <i className="fas fa-database"></i>,
@@ -78,7 +90,7 @@ export default function Resume({
       inst: "ACGCET Karaikudi",
       course: "Mechanical Engineering",
       level: "B.E",
-      year: "2018 - 2022",
+      year: "Jun 2018 - Jul 2022",
     },
   ];
   const certification = [
@@ -120,7 +132,7 @@ export default function Resume({
           </div>
           <div className="font-bold text-xl">My Resume</div>
         </div>
-        <a target="_blank" href="src\assets\resume.pdf">
+        <a target="_blank" href="/public/light-cv-01.pdf">
           <div className="text-gray-300 hover:text-white flex gap-x-2 items-center cursor-pointer">
             <div className="pr-1">View</div>
             <div>
