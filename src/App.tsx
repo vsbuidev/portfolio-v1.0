@@ -119,9 +119,9 @@ function App() {
                   </div>
                 </div>
                 <div className="text-white font-semibold text-2xl pt-5">
-                  Full-Stack Developer and UI Designer
+                  Cloud Support Engineer
                 </div>
-                <div className="pt-10 text-gray-400 line-height-2 text-[1rem]">
+                {/* <div className="pt-10 text-gray-400 line-height-2 text-[1rem]">
                   I'm a design-minded{" "}
                   <span className="text-white">engineer</span> focused on
                   building beautiful{" "}
@@ -131,6 +131,18 @@ function App() {
                   adapdable <span className="text-white">business logic</span>,
                   Currently I'm also exploring about cloud and devops
                   technologies.
+                </div> */}
+                <div className="pt-10 text-gray-400 line-height-2 text-[1rem]">
+                  I'm a {""}
+                  <span className="text-white">
+                    cloud-focused engineer
+                  </span>{" "}
+                  passionate about designing scalable and reliable cloud
+                  solutions. I specialize in optimizing infrastructure,
+                  enhancing system performance, and ensuring seamless
+                  deployments. Currently, I'm also exploring about{" "}
+                  <span className="text-white"> DevOps </span> methodologies to
+                  streamline operations and improve cloud efficiency.
                 </div>
                 <br />
                 <br />
